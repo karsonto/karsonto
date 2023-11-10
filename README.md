@@ -1,6 +1,6 @@
 ![](./images/header_.png)
-<h1 align="center">Hi 👋, I'm Karson</h1>
-<h3 align="center">A back-end developer from HongKong</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+i+am+Karson%2Ca+back-end+developer+from+HongKong;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karsonto&label=Profile%20views&color=0e75b6&style=plastic" alt="karsonto" /> </p>
 
