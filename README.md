@@ -1,6 +1,6 @@
 ![](./images/header_.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&multiline=true&random=false&width=435&lines=Hi+i+am+Karson;A+back-end+developer+from+HongKong;Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&multiline=true&random=false&width=435&height=80&lines=%F0%9F%91%8B+Hi+i+am+Karson;A+back+end+developer+from+HongKong;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karsonto&label=Profile%20views&color=0e75b6&style=plastic" alt="karsonto" /> </p>
 
