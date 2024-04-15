@@ -1,12 +1,12 @@
 ![](./images/header_.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&multiline=true&random=false&width=435&height=80&lines=%F0%9F%91%8B+Hi+i+am+Karson;A+back+end+developer+from+HongKong;Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&multiline=true&random=false&width=435&height=80&lines=%F0%9F%91%8B+Hi+i+am+Karson;IT+Manager+from+HongKong;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karsonto&label=Profile%20views&color=0e75b6&style=plastic" alt="karsonto" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karsonto" alt="karsonto" /></a> </p>
 
-- 🌱 I’m currently learning **Golang、Dokcer、Java**
+- 🌱  I’m currently focused on Apache EventMesh, Nacos, Spring Cloud alibaba.
 - 📫 How to reach me **karsontao@hotmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
