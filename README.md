@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karsonto" alt="karsonto" /></a> </p>
 
-- 🌱  I’m currently focused on Apache EventMesh, Nacos, Spring Cloud alibaba.
+- 🌱 I’m currently focused on **Java LLM领域**.
 - 📫 How to reach me **karson@apache.org**
 
 <h3 align="left">Languages and Tools:</h3>
